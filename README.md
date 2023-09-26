@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerard Fernández, Alias Gefete</h1>
 <h3 align="center">A passionate frontend and Backend developer from Spanish</h3>
 
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNsNDRmdmhoeTIxazQ5dXA1Y3Bsc293ZGh6MDYweWVuMmlneGczeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Gefete)-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gefete&label=Profile%20views&color=0e75b6&style=flat" alt="gefete" /> </p> -->
 
